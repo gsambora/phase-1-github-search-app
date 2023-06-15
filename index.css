@@ -4,10 +4,16 @@
   align-items: center;
 }
 
+body {
+  margin: 0;
+  font-family: URW Palladio L, serif;
+}
+
 #github-container {
   display: flex;
 }
 
+
 ul {
-  list-style: none;
+  list-style: disc;
 }
